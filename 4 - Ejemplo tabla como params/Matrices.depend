@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1372368455 source:g:\docencia\utn ayed\ayed\arrays\matrices\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1405784304 source:e:\clases 2014\ayed2014\arrays y strings\matrices\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1593876195 source:d:\2020 ayed\arrays\4 - ejemplo tabla como params\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+

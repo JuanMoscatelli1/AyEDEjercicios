@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632097220 source:e:\algoritmos proyectos\repaso final listas 1\678archivosborrado\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+

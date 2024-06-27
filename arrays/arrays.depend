@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597878567 source:e:\algoritmos proyectos\arrays\main.cpp
+	<iostream>
+	<conio.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+

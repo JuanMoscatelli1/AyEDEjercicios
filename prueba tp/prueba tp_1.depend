@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1600214200 source:c:\users\juare\desktop\c++\tp\prueba tp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1600297919 source:c:\users\juare\desktop\prueba tp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1601414920 source:e:\algoritmos proyectos\prueba tp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+

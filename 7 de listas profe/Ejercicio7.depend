@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1605208286 source:d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\guía y resueltos de listas pilas y colas\guía listas - resueltos\ejercicios 5, 6 y 7\ejercicio 7\listaalumnos.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+
+1605379003 d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\guía y resueltos de listas pilas y colas\guía listas - resueltos\ejercicios 5, 6 y 7\ejercicio 7\listaalumnos.h
+	"listaMaterias.h"
+
+1443265252 d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\guía y resueltos de listas pilas y colas\guía listas - resueltos\ejercicios 5, 6 y 7\ejercicio 7\listamaterias.h
+
+1443265252 source:d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\guía y resueltos de listas pilas y colas\guía listas - resueltos\ejercicios 5, 6 y 7\ejercicio 7\listamaterias.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaMaterias.h"
+
+1605208291 source:d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\guía y resueltos de listas pilas y colas\guía listas - resueltos\ejercicios 5, 6 y 7\ejercicio 7\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+	"listaMaterias.h"
+
+1605443604 source:e:\algoritmos proyectos\7 de listas profe\listaalumnos.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+
+1605446008 e:\algoritmos proyectos\7 de listas profe\listaalumnos.h
+	"listaMaterias.h"
+
+1443250852 e:\algoritmos proyectos\7 de listas profe\listamaterias.h
+
+1443250852 source:e:\algoritmos proyectos\7 de listas profe\listamaterias.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaMaterias.h"
+
+1605446008 source:e:\algoritmos proyectos\7 de listas profe\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+	"listaMaterias.h"
+

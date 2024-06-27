@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574515608 source:d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\5 pilas, colas y listas de\ejemplopruebalistade\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1570732726 d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\5 pilas, colas y listas de\ejemplopruebalistade\listasde.h
+	<iostream>
+
+1570732782 source:d:\2020 ayed\punteros - memoria dinamica y estructuras de datos dinamicas\5 pilas, colas y listas de\ejemplopruebalistade\main.cpp
+	<iostream>
+	<conio.h>
+	"listasDE.h"
+

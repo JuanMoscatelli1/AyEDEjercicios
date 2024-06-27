@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632020917 source:e:\algoritmos proyectos\repaso final listas 1\archivos3\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+

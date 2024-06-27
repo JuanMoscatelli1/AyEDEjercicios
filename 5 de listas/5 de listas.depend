@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605401976 source:e:\algoritmos proyectos\5 de listas\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+

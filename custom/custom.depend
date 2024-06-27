@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601516036 source:e:\algoritmos proyectos\custom\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+
